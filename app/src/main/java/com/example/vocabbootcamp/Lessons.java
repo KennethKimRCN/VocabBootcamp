@@ -24,7 +24,5 @@ public class Lessons extends AppCompatActivity {
 
         ItemAdapter itemAdapter = new ItemAdapter(this, chapter, theme);
         lessonList.setAdapter(itemAdapter);
-
-
     }
 }
