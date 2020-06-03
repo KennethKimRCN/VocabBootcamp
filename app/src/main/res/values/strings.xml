@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">VocabBootcamp</string>
+
+    <string-array name="lessons">
+        <item> Lesson 1</item>
+        <item> Lesson 3</item>
+        <item> Lesson 5</item>
+        <item> Lesson 7</item>
+        <item> Lesson 9</item>
+        <item> Lesson 11</item>
+        <item> Lesson 13</item>
+        <item> Lesson 15</item>
+    </string-array>
+
+    <string-array name="theme">
+        <item> 花見をしながら歓迎会をしませんか</item>
+        <item> 京都に行ったことがありますか</item>
+        <item> もうちょっと家事を手伝ってほしいです</item>
+        <item> 誕生日に時計をもらいました</item>
+        <item> 元気そうですね</item>
+        <item> 宝くじが当たったら</item>
+        <item> いい一日、嫌な一日</item>
+        <item> 車をぶつけてしまいました</item>
+    </string-array>
 </resources>
